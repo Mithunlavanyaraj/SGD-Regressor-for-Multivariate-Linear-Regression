@@ -9,12 +9,19 @@ To write a program to predict the price of the house and number of occupants in 
 
 ## Algorithm
 step 1:start the program
+
 step 2: Import the standard Libraries.
-step 3:Set variables for assigning dataset values.
+
+stap 3:Set variables for assigning dataset values.
+
 step 4:Import linear regression from sklearn.
+
 step 5:Assign the points for representing in the graph.
+
 step 6:Predict the regression for marks by using the representation of the graph.
+
 step 7: Compare the graphs and hence we obtained the linear regression for the given datas.
+
 step 8:End the program
 
 ## Program:
